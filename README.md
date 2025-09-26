@@ -4,7 +4,7 @@
 
 <!-- Profile Picture -->
 <p align="center">
-  <img src="https://ibb.co/FqnZnQ02" width="200" style="border-radius:50%" alt="Divyanshi Sachan"/>
+  <img src="image.png" width="200" style="border-radius:50%" alt="Divyanshi Sachan"/>
 </p>
 
 ---
