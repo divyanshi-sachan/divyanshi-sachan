@@ -4,7 +4,7 @@
 
 <!-- Profile Picture -->
 <p align="center">
-  <img src="image.png" width="200" style="border-radius:50%" alt="Divyanshi Sachan"/>
+<img src="image.png" alt="Divyanshi Sachan" width="100%" height="350px" style="object-fit:cover;" />
 </p>
 
 ---
