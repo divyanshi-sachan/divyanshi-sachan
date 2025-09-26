@@ -90,7 +90,6 @@
 
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
-| **LexiDraft** | AI-powered legal consultation platform with voice/chat support | Next.js, Vapi AI, Clerk | [Repo](#) |
 | **Journaling App** | Digital journaling app with themes, AI writing, doodles, and community journal | Next.js, MongoDB, Drizzle, Prisma | [Repo](#) |
 | **AI Content Generator** | SaaS app for repurposing blogs & videos into social media content | React, Node.js, OpenAI API | [Repo](#) |
 | **Rideshare App** | Carpooling app with auth and ride-sharing features | React, Clerk | [Repo](#) |
