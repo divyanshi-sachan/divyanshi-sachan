@@ -60,20 +60,9 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divyanshi-sachan&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshi-sachan&layout=compact&theme=radical" height="180"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshi-sachan&theme=radical" height="180"/>
-</p>
-
----
-
-## 📈 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=divyanshi-sachan&theme=tokyo-night&area=true&hide_border=true"/>
 </p>
 
 ---
