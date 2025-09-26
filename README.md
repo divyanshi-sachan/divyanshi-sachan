@@ -3,9 +3,10 @@
 <h3 align="center">Aspiring AI/ML Engineer | Full Stack Developer | DSA Enthusiast | Tech Explorer 🚀</h3>
 
 <!-- Profile Picture -->
-<p align="center">
-<img src="image.png" alt="Divyanshi Sachan" width="100%" height="350px" style="object-fit:cover;" />
-</p>
+<div align="center" style="width:100%; overflow:hidden;">
+  <img src="image.png" alt="Divyanshi Sachan" style="width:100%; height:350px; object-fit:cover;" />
+</div>
+
 
 ---
 
